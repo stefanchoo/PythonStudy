@@ -1,2 +1,2 @@
 # PythonStudy
-Person python study workspace
+Personal python study workspace
